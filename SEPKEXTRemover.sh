@@ -9,3 +9,5 @@ then
 else
 	echo "Symantec KEXT(s) not found!"
 fi
+
+exit
