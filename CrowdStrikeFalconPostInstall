@@ -1,6 +1,6 @@
 #!/bin/sh
 ## postinstall
-## Installs Cloudstrike Falcon PKG from /tmp/ and registers license
+## Installs Crowdstrike Falcon PKG from /tmp/ and registers license
 ## PKGed for X by WNETTO 2/21/20
 
 
