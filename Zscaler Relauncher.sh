@@ -2,7 +2,7 @@
 #Zscaler Relauncher
 #Checks if Zscaler is running, if it's not, it will relaunch it
 #Can be repurposed for any process
-#wnetto for AIX 6/1/20
+#wnetto 6/1/20
 
 
 str1=$(wc -l /private/tmp/zscalercheck)
