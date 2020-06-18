@@ -1,7 +1,7 @@
 #!/bin/sh
 
 #Symantec KEXT Remover
-#wnetto for AIX 4/16/20
+#DNA 4/16/20
 
 if [ -e /Library/Extensions/SymXIPS.kext ]
 then

@@ -7,7 +7,7 @@ BLAST OFF!
 
 SCRIPTING BY:
 
-[wnetto@XXX.edu]
+[DNA@XXX.edu]
 
 *)
 
